@@ -1,0 +1,73 @@
+
+.panel{
+    max-width: 1600px;
+    padding: 50px;
+    margin: 1px;
+    background-image: url(images/fondo.jpg)
+}
+.text-center{
+    text-align: center;
+    color: rgb(244, 19, 124);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+table{ width: 100%;}
+table,tr,td{
+    border: 1px solid rgb(244, 19, 124);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.btn{ background: rgb(244, 19, 124); 
+    color: white; 
+    padding: 10px 20px; 
+    display: inline-block;
+     text-decoration: none;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     text-align: center;
+     margin-top: 10px;
+     margin-bottom: 20px;
+    }
+
+ h2 {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+ }
+ tr {
+    color: white;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+
+ footer{
+    text-align: center;
+    color: white;
+    background: rgb(31, 3, 35);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 20px;
+    padding: 10px;
+ }
+
+ .logotipo {
+    width: 250px;
+    height: auto;
+    object-fit: cover;
+ }
+
+ .redes-sociales{
+    width: 30px;
+    height: auto;
+    margin: 10px;
+ }    
+
+ .container{
+    max-width: 1600px;
+    padding: 0px;
+    margin: 0px;
+    
+ }
+
+ .carousel-caption{
+    position: absolute;
+    bottom: 20px;
+    text-align:center;
+ }
+
